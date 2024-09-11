@@ -1,10 +1,14 @@
+<div align="center">
+
 # 🎮 Tic-Tac-Toe: A Classic Game Reimagined 🎮
+
+</div>
 
 ### 
 <h3 align="center">Welcome to Tic-Tac-Toe, the timeless game of strategy and fun!</h3>
 
 <div align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/tbLfF6q/Tic-Tac-Toe.jpg" alt="Tic-Tac-Toe" border="0"></a>
+  <img src="https://i.ibb.co/tbLfF6q/Tic-Tac-Toe.jpg" alt="Tic-Tac-Toe" style="height: 100px;" />
 </div>
 
 ### 👩‍💻 About the Game
@@ -39,10 +43,9 @@ Our vision is to bring the classic Tic-Tac-Toe game to a wider audience with mod
 <br>
 <br>
 
-https://github.com/user-attachments/assets/207319be-4bb1-4361-b14d-f3b132d9725f
-
-
-
+<div align="center">
+  <img width="1399" alt="Screenshot of Tic-Tac-Toe" src="https://github.com/user-attachments/assets/207319be-4bb1-4361-b14d-f3b132d9725f">
+</div>
 
 ### Join Us on Our Journey
 
