@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to Tic-Tac-Toe, the timeless game of strategy and fun!</h3>
 
 <div align="center">
-  <img height="150" src="https://example.com/your-logo.png" alt="Tic-Tac-Toe Logo" />
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/tbLfF6q/Tic-Tac-Toe.jpg" alt="Tic-Tac-Toe" border="0"></a>
 </div>
 
 ### 👩‍💻 About the Game
