@@ -42,7 +42,7 @@ Our vision is to bring the classic Tic-Tac-Toe game to a wider audience with mod
 https://github.com/user-attachments/assets/207319be-4bb1-4361-b14d-f3b132d9725f
 
 
-<img width="1399" alt="Another screenshot of Tic-Tac-Toe" src="https://example.com/screenshot2.png">
+
 
 ### Join Us on Our Journey
 
